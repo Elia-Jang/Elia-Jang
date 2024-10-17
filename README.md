@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Elia Jang
-- 👀 I’m interested in chemsitry, pharmaceuticals, and engineering
+### 👋 Hi, I’m Haeun (Elia) Jang
+
+- 👀 I’m interested in learning about chemsitry, pharmaceuticals, and engineering
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
+
+##  📫 How to reach me ...
+- [Email](eliajang07@gmail.com)
+- [LinkedIn](www.linkedin.com/in/haeun-jang-944a352b9)
+  
+
 
 <!---
 Elia-Jang/Elia-Jang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
