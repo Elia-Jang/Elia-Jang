@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
-##  📫 How to reach me ...
+##  📫 How to reach me 
 - [Email](eliajang07@gmail.com)
 - [LinkedIn](www.linkedin.com/in/haeun-jang-944a352b9)
   
