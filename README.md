@@ -1,10 +1,10 @@
 ### 👋 Hi, I’m Haeun (Elia) Jang
 
 - 👀 I’m interested in learning about chemsitry, pharmaceuticals, and engineering
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 ##  📫 How to reach me 
 - [Email](eliajang07@gmail.com)
