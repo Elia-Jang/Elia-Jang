@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Haeun (Elia) Jang
 
-- 👀 I’m interested in learning about chemsitry, pharmaceuticals, and engineering
+- 👀 I’m interested in 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 😄 Pronouns: she/her
